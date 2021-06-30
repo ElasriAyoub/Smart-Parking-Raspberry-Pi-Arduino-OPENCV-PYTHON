@@ -11,7 +11,7 @@
   <h3 align="center">Smart Parking Project</h3>
 
   <p align="center">
-   Using ARDUINO and a JAVA GUI!
+   Using Image Processing and Raspberry Pi!
     <br />
     <a href="https://github.com/ElasriAyoub"><strong>Check all my projects</strong></a>
     <br />
