@@ -24,11 +24,6 @@
 Parking spots nowadays are fundamental. The increase of vehicles and parkingsmakes it difficult for drivers to find vacant parking spaces rapidly. For a Parking company, it’s hard to supervise all of its parking manually, wasting time, energy, and patience.
 In the 21st Century, time is gold. So wasting time is a meager problem to identify the spots of its parking in Real-Time.
 
-Here's the solution:
-* Each parking supervisor had a Desktop Application that allows him to track the vehicles in the parking in Real Time.
-* Using the technology of Light Sensors (LDR) to track the presence each vehicle.
-* Vehicle informations are stored in a Database. 
-
 A good reflection is to answer the questions of type **WWWHW**.
 
 ***What*** :
@@ -62,9 +57,8 @@ This project was built using multiple tools:
 
 1. Sizing of the prototype.
 2. Cut the necessary parts of the Plexiglass.
-3. Drilling the necessary holes for the LDRs.
-4. Gluing of the parts
-5. Serial communication between the Arduino MEGA and the PC.
+3. Gluing of the parts
+4. Serial communication between the Arduino MEGA and the Raspberry Pi.
 
 ### Installation
 
