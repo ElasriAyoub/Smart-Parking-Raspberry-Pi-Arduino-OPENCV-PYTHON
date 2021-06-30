@@ -87,7 +87,7 @@ Contributions are what make the open source community such an amazing place to b
 
 AYOUB EL ASRI - [@Ayoub El Asri](https://www.facebook.com/el.asriiii/) - elasri.ayoub@yahoo.com
 
-Project Link: [https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA](https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA)
+Project Link: [https://github.com/ElasriAyoub/Smart-Parking-Raspberry-Pi-Arduino-OPENCV-PYTHON](https://github.com/ElasriAyoub/Smart-Parking-Raspberry-Pi-Arduino-OPENCV-PYTHON)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elasri-ayoub/
