@@ -73,6 +73,7 @@ This project was built using multiple tools:
    -> https://www.jetbrains.com/pycharm/
 <!-- CONTRIBUTING -->
 
+
 <!-- CONTACT -->
 ## Contact
 
