@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Parking spots nowadays are fundamental. The increase of vehicles and parkingsmakes it difficult for drivers to find vacant parking spaces rapidly. For a Parking company, it’s hard to supervise all of its parking manually, wasting time, energy, and patience.
+Parking spots nowadays are fundamental. The increase of vehicles and parkingsmakes it difficult for drivers to find vacant parking spaces rapidly. For a Parking company, it’s hard to supervise all of its parkings manually, wasting time, energy, and patience. 
 In the 21st Century, time is gold. So wasting time is a meager problem to identify the spots of its parking in Real-Time.
 
 A good reflection is to answer the questions of type **WWWHW**.
