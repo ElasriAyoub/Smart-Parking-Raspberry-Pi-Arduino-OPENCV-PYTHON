@@ -64,7 +64,7 @@ This project was built using multiple tools:
 
 1. Clone the repo
    ```sh
-   git clone https://https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA.git
+   git clone https://github.com/ElasriAyoub/Smart-Parking-Raspberry-Pi-Arduino-OPENCV-PYTHON.git
    ```
 2. Install the packages
 3. Install the Arduino IDE
