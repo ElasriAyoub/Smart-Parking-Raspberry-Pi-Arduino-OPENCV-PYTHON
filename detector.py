@@ -39,7 +39,6 @@ def drawRectangle2(img, a, b, c, d):
     else:
         cv2.rectangle(img, (a, b), (a + c, b + d), (0, 225, 255), 3)
 
-
 def callback(foo):
     pass
 
@@ -48,17 +47,14 @@ with open('data/rois.csv', 'r', newline='') as inf:
     csvr = csv.reader(inf)
     rois = list(csvr)
 
-
 # converting the values to integer
 rois = [[int(float(j)) for j in i] for i in rois]
-
 
 cv2.namedWindow('parameters')
 cv2.createTrackbar('Threshold1', 'parameters', 186, 700, callback)
 cv2.createTrackbar('Threshold2', 'parameters', 122, 700, callback)
 cv2.createTrackbar('Min pixels', 'parameters', 0, 1500, callback)
 cv2.createTrackbar('Max pixels', 'parameters', 323, 1500, callback)
-
 
 cap = cv2.VideoCapture(1)
 k = 0
@@ -72,7 +68,6 @@ while True:
     max = cv2.getTrackbarPos('Max pixels', 'parameters')
     lowThreshold = cv2.getTrackbarPos('Threshold1', 'parameters')
     highThreshold = cv2.getTrackbarPos('Threshold2', 'parameters')
-
 
     for i in range(len(rois)):
         drawRectangle1(frame, rois[i][0], rois[i][1], rois[i][2], rois[i][3])
